@@ -1,0 +1,13 @@
+.title {
+  text-align: center;
+  font-size: 22px;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, 100px));
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
